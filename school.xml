@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<offered>
+<school>
+<name>IBM</name>
+<ref>ibm</ref>
+<intro>
+IBM. IBM offers a wide range of technology and consulting services; a broad portfolio of middleware for collaboration, predictive analytics, software development and systems management; and the world's most advanced servers and supercomputers. Utilizing its business consulting, technology and R&#38;D expertise, IBM helps clients become "smarter" as the planet becomes more digitally interconnected. IBM invests more than $6 billion a year in R&#38;D, just completing its 21st year of patent leadership. IBM Research has received recognition beyond any commercial technology research organization and is home to 5 Nobel Laureates, 9 US National Medals of Technology, 5 US National Medals of Science, 6 Turing Awards, and 10 Inductees in US Inventors Hall of Fame.
+</intro>
+</school>
+
+<school>
+<name>University of Washington</name>
+<ref>uw</ref>
+<intro>
+University of Washington. Founded in 1861, the University of Washington is one of the oldest state-supported institutions of higher education on the West Coast and is one of the preeminent research universities in the world. 
+</intro>
+</school>
+
+</offered>
