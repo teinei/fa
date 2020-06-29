@@ -7,7 +7,7 @@ int main(){
     int a = 42;
     double d = 58.394;
     char c = 'r';
-    int * addressOfA = &a;
+    int * addressOfA = &a;//declare ptr
     printf("address of a: %p\n", addressOfA);
     double * addressOfD = &d;
     printf("address of d: %p\n", addressOfD);

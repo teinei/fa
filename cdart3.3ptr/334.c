@@ -1,6 +1,6 @@
-//3.3ptr4 array as ptr arg
+//3.3ptr4 array as ptr arg, array ptr + ptr arg
 #include <stdio.h>
-void reset(int *);
+void reset(int *);//ptr arg
 int main() {
     //! showMemory(start=65520)
     int arr[3] = {15, 16, 17};

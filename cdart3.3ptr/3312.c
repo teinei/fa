@@ -6,10 +6,10 @@ int main(){
     double * addressOfA = &a;
     printf("At the address %p there is the value %.2lf\n",addressOfA,* addressOfA);
     char c = 'm';
-    char * addressOfC = &c;
-    char d = * addressOfC;
-    * addressOfA = 32;
-    * addressOfA = * addressOfA + 1;
+    char * addressOfC = &c;//&nom, address of a var
+    char d = * addressOfC; //value of
+    * addressOfA = 32; //value of, de-ref, star without type prefix
+    * addressOfA = * addressOfA + 1; //*nom, value of a pointee
     printf("At the address %p there is the value %.2lf\n",addressOfA,* addressOfA);
     return 0;
 }
